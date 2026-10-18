@@ -130,197 +130,293 @@ A_tour_of_c++/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/build
 .PHONY : A_tour_of_c++/fast
 
-chs/ch1_2_1.o: chs/ch1_2_1.cpp.o
-.PHONY : chs/ch1_2_1.o
+chs1/ch1_2_1.o: chs1/ch1_2_1.cpp.o
+.PHONY : chs1/ch1_2_1.o
 
 # target to build an object file
-chs/ch1_2_1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.o
-.PHONY : chs/ch1_2_1.cpp.o
+chs1/ch1_2_1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.o
+.PHONY : chs1/ch1_2_1.cpp.o
 
-chs/ch1_2_1.i: chs/ch1_2_1.cpp.i
-.PHONY : chs/ch1_2_1.i
+chs1/ch1_2_1.i: chs1/ch1_2_1.cpp.i
+.PHONY : chs1/ch1_2_1.i
 
 # target to preprocess a source file
-chs/ch1_2_1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.i
-.PHONY : chs/ch1_2_1.cpp.i
+chs1/ch1_2_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.i
+.PHONY : chs1/ch1_2_1.cpp.i
 
-chs/ch1_2_1.s: chs/ch1_2_1.cpp.s
-.PHONY : chs/ch1_2_1.s
+chs1/ch1_2_1.s: chs1/ch1_2_1.cpp.s
+.PHONY : chs1/ch1_2_1.s
 
 # target to generate assembly for a file
-chs/ch1_2_1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.s
-.PHONY : chs/ch1_2_1.cpp.s
+chs1/ch1_2_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.s
+.PHONY : chs1/ch1_2_1.cpp.s
 
-chs/ch1_3.o: chs/ch1_3.cpp.o
-.PHONY : chs/ch1_3.o
+chs1/ch1_3.o: chs1/ch1_3.cpp.o
+.PHONY : chs1/ch1_3.o
 
 # target to build an object file
-chs/ch1_3.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.o
-.PHONY : chs/ch1_3.cpp.o
+chs1/ch1_3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.o
+.PHONY : chs1/ch1_3.cpp.o
 
-chs/ch1_3.i: chs/ch1_3.cpp.i
-.PHONY : chs/ch1_3.i
+chs1/ch1_3.i: chs1/ch1_3.cpp.i
+.PHONY : chs1/ch1_3.i
 
 # target to preprocess a source file
-chs/ch1_3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.i
-.PHONY : chs/ch1_3.cpp.i
+chs1/ch1_3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.i
+.PHONY : chs1/ch1_3.cpp.i
 
-chs/ch1_3.s: chs/ch1_3.cpp.s
-.PHONY : chs/ch1_3.s
+chs1/ch1_3.s: chs1/ch1_3.cpp.s
+.PHONY : chs1/ch1_3.s
 
 # target to generate assembly for a file
-chs/ch1_3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.s
-.PHONY : chs/ch1_3.cpp.s
+chs1/ch1_3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.s
+.PHONY : chs1/ch1_3.cpp.s
 
-chs/ch1_4.o: chs/ch1_4.cpp.o
-.PHONY : chs/ch1_4.o
+chs1/ch1_4.o: chs1/ch1_4.cpp.o
+.PHONY : chs1/ch1_4.o
 
 # target to build an object file
-chs/ch1_4.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.o
-.PHONY : chs/ch1_4.cpp.o
+chs1/ch1_4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.o
+.PHONY : chs1/ch1_4.cpp.o
 
-chs/ch1_4.i: chs/ch1_4.cpp.i
-.PHONY : chs/ch1_4.i
+chs1/ch1_4.i: chs1/ch1_4.cpp.i
+.PHONY : chs1/ch1_4.i
 
 # target to preprocess a source file
-chs/ch1_4.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.i
-.PHONY : chs/ch1_4.cpp.i
+chs1/ch1_4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.i
+.PHONY : chs1/ch1_4.cpp.i
 
-chs/ch1_4.s: chs/ch1_4.cpp.s
-.PHONY : chs/ch1_4.s
+chs1/ch1_4.s: chs1/ch1_4.cpp.s
+.PHONY : chs1/ch1_4.s
 
 # target to generate assembly for a file
-chs/ch1_4.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.s
-.PHONY : chs/ch1_4.cpp.s
+chs1/ch1_4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.s
+.PHONY : chs1/ch1_4.cpp.s
 
-chs/ch1_5.o: chs/ch1_5.cpp.o
-.PHONY : chs/ch1_5.o
+chs1/ch1_5.o: chs1/ch1_5.cpp.o
+.PHONY : chs1/ch1_5.o
 
 # target to build an object file
-chs/ch1_5.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.o
-.PHONY : chs/ch1_5.cpp.o
+chs1/ch1_5.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.o
+.PHONY : chs1/ch1_5.cpp.o
 
-chs/ch1_5.i: chs/ch1_5.cpp.i
-.PHONY : chs/ch1_5.i
+chs1/ch1_5.i: chs1/ch1_5.cpp.i
+.PHONY : chs1/ch1_5.i
 
 # target to preprocess a source file
-chs/ch1_5.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.i
-.PHONY : chs/ch1_5.cpp.i
+chs1/ch1_5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.i
+.PHONY : chs1/ch1_5.cpp.i
 
-chs/ch1_5.s: chs/ch1_5.cpp.s
-.PHONY : chs/ch1_5.s
+chs1/ch1_5.s: chs1/ch1_5.cpp.s
+.PHONY : chs1/ch1_5.s
 
 # target to generate assembly for a file
-chs/ch1_5.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.s
-.PHONY : chs/ch1_5.cpp.s
+chs1/ch1_5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.s
+.PHONY : chs1/ch1_5.cpp.s
 
-chs/ch1_6.o: chs/ch1_6.cpp.o
-.PHONY : chs/ch1_6.o
+chs1/ch1_6.o: chs1/ch1_6.cpp.o
+.PHONY : chs1/ch1_6.o
 
 # target to build an object file
-chs/ch1_6.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.o
-.PHONY : chs/ch1_6.cpp.o
+chs1/ch1_6.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.o
+.PHONY : chs1/ch1_6.cpp.o
 
-chs/ch1_6.i: chs/ch1_6.cpp.i
-.PHONY : chs/ch1_6.i
+chs1/ch1_6.i: chs1/ch1_6.cpp.i
+.PHONY : chs1/ch1_6.i
 
 # target to preprocess a source file
-chs/ch1_6.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.i
-.PHONY : chs/ch1_6.cpp.i
+chs1/ch1_6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.i
+.PHONY : chs1/ch1_6.cpp.i
 
-chs/ch1_6.s: chs/ch1_6.cpp.s
-.PHONY : chs/ch1_6.s
+chs1/ch1_6.s: chs1/ch1_6.cpp.s
+.PHONY : chs1/ch1_6.s
 
 # target to generate assembly for a file
-chs/ch1_6.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.s
-.PHONY : chs/ch1_6.cpp.s
+chs1/ch1_6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.s
+.PHONY : chs1/ch1_6.cpp.s
 
-chs/ch1_7.o: chs/ch1_7.cpp.o
-.PHONY : chs/ch1_7.o
+chs1/ch1_7.o: chs1/ch1_7.cpp.o
+.PHONY : chs1/ch1_7.o
 
 # target to build an object file
-chs/ch1_7.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.o
-.PHONY : chs/ch1_7.cpp.o
+chs1/ch1_7.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.o
+.PHONY : chs1/ch1_7.cpp.o
 
-chs/ch1_7.i: chs/ch1_7.cpp.i
-.PHONY : chs/ch1_7.i
+chs1/ch1_7.i: chs1/ch1_7.cpp.i
+.PHONY : chs1/ch1_7.i
 
 # target to preprocess a source file
-chs/ch1_7.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.i
-.PHONY : chs/ch1_7.cpp.i
+chs1/ch1_7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.i
+.PHONY : chs1/ch1_7.cpp.i
 
-chs/ch1_7.s: chs/ch1_7.cpp.s
-.PHONY : chs/ch1_7.s
+chs1/ch1_7.s: chs1/ch1_7.cpp.s
+.PHONY : chs1/ch1_7.s
 
 # target to generate assembly for a file
-chs/ch1_7.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.s
-.PHONY : chs/ch1_7.cpp.s
+chs1/ch1_7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.s
+.PHONY : chs1/ch1_7.cpp.s
 
-chs/ch1_8.o: chs/ch1_8.cpp.o
-.PHONY : chs/ch1_8.o
+chs1/ch1_8.o: chs1/ch1_8.cpp.o
+.PHONY : chs1/ch1_8.o
 
 # target to build an object file
-chs/ch1_8.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.o
-.PHONY : chs/ch1_8.cpp.o
+chs1/ch1_8.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.o
+.PHONY : chs1/ch1_8.cpp.o
 
-chs/ch1_8.i: chs/ch1_8.cpp.i
-.PHONY : chs/ch1_8.i
+chs1/ch1_8.i: chs1/ch1_8.cpp.i
+.PHONY : chs1/ch1_8.i
 
 # target to preprocess a source file
-chs/ch1_8.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.i
-.PHONY : chs/ch1_8.cpp.i
+chs1/ch1_8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.i
+.PHONY : chs1/ch1_8.cpp.i
 
-chs/ch1_8.s: chs/ch1_8.cpp.s
-.PHONY : chs/ch1_8.s
+chs1/ch1_8.s: chs1/ch1_8.cpp.s
+.PHONY : chs1/ch1_8.s
 
 # target to generate assembly for a file
-chs/ch1_8.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.s
-.PHONY : chs/ch1_8.cpp.s
+chs1/ch1_8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.s
+.PHONY : chs1/ch1_8.cpp.s
 
-chs/ch1_9.o: chs/ch1_9.cpp.o
-.PHONY : chs/ch1_9.o
+chs1/ch1_9.o: chs1/ch1_9.cpp.o
+.PHONY : chs1/ch1_9.o
 
 # target to build an object file
-chs/ch1_9.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.o
-.PHONY : chs/ch1_9.cpp.o
+chs1/ch1_9.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.o
+.PHONY : chs1/ch1_9.cpp.o
 
-chs/ch1_9.i: chs/ch1_9.cpp.i
-.PHONY : chs/ch1_9.i
+chs1/ch1_9.i: chs1/ch1_9.cpp.i
+.PHONY : chs1/ch1_9.i
 
 # target to preprocess a source file
-chs/ch1_9.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.i
-.PHONY : chs/ch1_9.cpp.i
+chs1/ch1_9.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.i
+.PHONY : chs1/ch1_9.cpp.i
 
-chs/ch1_9.s: chs/ch1_9.cpp.s
-.PHONY : chs/ch1_9.s
+chs1/ch1_9.s: chs1/ch1_9.cpp.s
+.PHONY : chs1/ch1_9.s
 
 # target to generate assembly for a file
-chs/ch1_9.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.s
-.PHONY : chs/ch1_9.cpp.s
+chs1/ch1_9.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.s
+.PHONY : chs1/ch1_9.cpp.s
+
+chs2/ch2_1.o: chs2/ch2_1.cpp.o
+.PHONY : chs2/ch2_1.o
+
+# target to build an object file
+chs2/ch2_1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.o
+.PHONY : chs2/ch2_1.cpp.o
+
+chs2/ch2_1.i: chs2/ch2_1.cpp.i
+.PHONY : chs2/ch2_1.i
+
+# target to preprocess a source file
+chs2/ch2_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.i
+.PHONY : chs2/ch2_1.cpp.i
+
+chs2/ch2_1.s: chs2/ch2_1.cpp.s
+.PHONY : chs2/ch2_1.s
+
+# target to generate assembly for a file
+chs2/ch2_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.s
+.PHONY : chs2/ch2_1.cpp.s
+
+chs2/ch2_3.o: chs2/ch2_3.cpp.o
+.PHONY : chs2/ch2_3.o
+
+# target to build an object file
+chs2/ch2_3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.o
+.PHONY : chs2/ch2_3.cpp.o
+
+chs2/ch2_3.i: chs2/ch2_3.cpp.i
+.PHONY : chs2/ch2_3.i
+
+# target to preprocess a source file
+chs2/ch2_3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.i
+.PHONY : chs2/ch2_3.cpp.i
+
+chs2/ch2_3.s: chs2/ch2_3.cpp.s
+.PHONY : chs2/ch2_3.s
+
+# target to generate assembly for a file
+chs2/ch2_3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.s
+.PHONY : chs2/ch2_3.cpp.s
+
+cpp_cpu_maths_tools/binaryToHex.o: cpp_cpu_maths_tools/binaryToHex.cpp.o
+.PHONY : cpp_cpu_maths_tools/binaryToHex.o
+
+# target to build an object file
+cpp_cpu_maths_tools/binaryToHex.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.o
+.PHONY : cpp_cpu_maths_tools/binaryToHex.cpp.o
+
+cpp_cpu_maths_tools/binaryToHex.i: cpp_cpu_maths_tools/binaryToHex.cpp.i
+.PHONY : cpp_cpu_maths_tools/binaryToHex.i
+
+# target to preprocess a source file
+cpp_cpu_maths_tools/binaryToHex.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.i
+.PHONY : cpp_cpu_maths_tools/binaryToHex.cpp.i
+
+cpp_cpu_maths_tools/binaryToHex.s: cpp_cpu_maths_tools/binaryToHex.cpp.s
+.PHONY : cpp_cpu_maths_tools/binaryToHex.s
+
+# target to generate assembly for a file
+cpp_cpu_maths_tools/binaryToHex.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.s
+.PHONY : cpp_cpu_maths_tools/binaryToHex.cpp.s
+
+cpp_cpu_maths_tools/typeConverison.o: cpp_cpu_maths_tools/typeConverison.cpp.o
+.PHONY : cpp_cpu_maths_tools/typeConverison.o
+
+# target to build an object file
+cpp_cpu_maths_tools/typeConverison.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.o
+.PHONY : cpp_cpu_maths_tools/typeConverison.cpp.o
+
+cpp_cpu_maths_tools/typeConverison.i: cpp_cpu_maths_tools/typeConverison.cpp.i
+.PHONY : cpp_cpu_maths_tools/typeConverison.i
+
+# target to preprocess a source file
+cpp_cpu_maths_tools/typeConverison.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.i
+.PHONY : cpp_cpu_maths_tools/typeConverison.cpp.i
+
+cpp_cpu_maths_tools/typeConverison.s: cpp_cpu_maths_tools/typeConverison.cpp.s
+.PHONY : cpp_cpu_maths_tools/typeConverison.s
+
+# target to generate assembly for a file
+cpp_cpu_maths_tools/typeConverison.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.s
+.PHONY : cpp_cpu_maths_tools/typeConverison.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -355,30 +451,42 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... A_tour_of_c++"
-	@echo "... chs/ch1_2_1.o"
-	@echo "... chs/ch1_2_1.i"
-	@echo "... chs/ch1_2_1.s"
-	@echo "... chs/ch1_3.o"
-	@echo "... chs/ch1_3.i"
-	@echo "... chs/ch1_3.s"
-	@echo "... chs/ch1_4.o"
-	@echo "... chs/ch1_4.i"
-	@echo "... chs/ch1_4.s"
-	@echo "... chs/ch1_5.o"
-	@echo "... chs/ch1_5.i"
-	@echo "... chs/ch1_5.s"
-	@echo "... chs/ch1_6.o"
-	@echo "... chs/ch1_6.i"
-	@echo "... chs/ch1_6.s"
-	@echo "... chs/ch1_7.o"
-	@echo "... chs/ch1_7.i"
-	@echo "... chs/ch1_7.s"
-	@echo "... chs/ch1_8.o"
-	@echo "... chs/ch1_8.i"
-	@echo "... chs/ch1_8.s"
-	@echo "... chs/ch1_9.o"
-	@echo "... chs/ch1_9.i"
-	@echo "... chs/ch1_9.s"
+	@echo "... chs1/ch1_2_1.o"
+	@echo "... chs1/ch1_2_1.i"
+	@echo "... chs1/ch1_2_1.s"
+	@echo "... chs1/ch1_3.o"
+	@echo "... chs1/ch1_3.i"
+	@echo "... chs1/ch1_3.s"
+	@echo "... chs1/ch1_4.o"
+	@echo "... chs1/ch1_4.i"
+	@echo "... chs1/ch1_4.s"
+	@echo "... chs1/ch1_5.o"
+	@echo "... chs1/ch1_5.i"
+	@echo "... chs1/ch1_5.s"
+	@echo "... chs1/ch1_6.o"
+	@echo "... chs1/ch1_6.i"
+	@echo "... chs1/ch1_6.s"
+	@echo "... chs1/ch1_7.o"
+	@echo "... chs1/ch1_7.i"
+	@echo "... chs1/ch1_7.s"
+	@echo "... chs1/ch1_8.o"
+	@echo "... chs1/ch1_8.i"
+	@echo "... chs1/ch1_8.s"
+	@echo "... chs1/ch1_9.o"
+	@echo "... chs1/ch1_9.i"
+	@echo "... chs1/ch1_9.s"
+	@echo "... chs2/ch2_1.o"
+	@echo "... chs2/ch2_1.i"
+	@echo "... chs2/ch2_1.s"
+	@echo "... chs2/ch2_3.o"
+	@echo "... chs2/ch2_3.i"
+	@echo "... chs2/ch2_3.s"
+	@echo "... cpp_cpu_maths_tools/binaryToHex.o"
+	@echo "... cpp_cpu_maths_tools/binaryToHex.i"
+	@echo "... cpp_cpu_maths_tools/binaryToHex.s"
+	@echo "... cpp_cpu_maths_tools/typeConverison.o"
+	@echo "... cpp_cpu_maths_tools/typeConverison.i"
+	@echo "... cpp_cpu_maths_tools/typeConverison.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

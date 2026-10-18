@@ -86,145 +86,209 @@ CMakeFiles/A_tour_of_c++.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/main.cpp -o CMakeFiles/A_tour_of_c++.dir/main.cpp.s
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_2_1.cpp
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_2_1.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_2_1.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_2_1.cpp
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_2_1.cpp > CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.i
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_2_1.cpp > CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.i
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_2_1.cpp -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.s
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_2_1.cpp -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.s
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_3.cpp
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_3.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_3.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_3.cpp
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_3.cpp > CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.i
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_3.cpp > CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.i
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_3.cpp -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.s
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_3.cpp -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.s
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_4.cpp
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_4.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_4.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_4.cpp
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_4.cpp > CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.i
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_4.cpp > CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.i
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_4.cpp -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.s
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_4.cpp -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.s
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_5.cpp
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_5.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_5.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_5.cpp
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_5.cpp > CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.i
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_5.cpp > CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.i
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_5.cpp -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.s
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_5.cpp -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.s
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_6.cpp
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_6.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_6.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_6.cpp
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_6.cpp > CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.i
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_6.cpp > CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.i
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_6.cpp -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.s
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_6.cpp -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.s
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_7.cpp
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_7.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_7.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_7.cpp
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_7.cpp > CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.i
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_7.cpp > CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.i
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_7.cpp -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.s
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_7.cpp -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.s
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_8.cpp
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_8.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_8.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_8.cpp
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_8.cpp > CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.i
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_8.cpp > CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.i
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_8.cpp -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.s
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_8.cpp -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.s
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_9.cpp
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_9.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_9.cpp
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_9.cpp
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_9.cpp > CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.i
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_9.cpp > CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.i
 
-CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs/ch1_9.cpp -o CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.s
+CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs1/ch1_9.cpp -o CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.s
+
+CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
+CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs2/ch2_1.cpp
+CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs2/ch2_1.cpp
+
+CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs2/ch2_1.cpp > CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.i
+
+CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs2/ch2_1.cpp -o CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.s
+
+CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
+CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/chs2/ch2_3.cpp
+CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/chs2/ch2_3.cpp
+
+CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/chs2/ch2_3.cpp > CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.i
+
+CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/chs2/ch2_3.cpp -o CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.s
+
+CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
+CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/cpp_cpu_maths_tools/binaryToHex.cpp
+CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/cpp_cpu_maths_tools/binaryToHex.cpp
+
+CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/cpp_cpu_maths_tools/binaryToHex.cpp > CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.i
+
+CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/cpp_cpu_maths_tools/binaryToHex.cpp -o CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.s
+
+CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.o: CMakeFiles/A_tour_of_c++.dir/flags.make
+CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.o: /Users/adityashigam/Documents/c++/aTourOf++/cpp_cpu_maths_tools/typeConverison.cpp
+CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.o: CMakeFiles/A_tour_of_c++.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.o -MF CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.o.d -o CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.o -c /Users/adityashigam/Documents/c++/aTourOf++/cpp_cpu_maths_tools/typeConverison.cpp
+
+CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/adityashigam/Documents/c++/aTourOf++/cpp_cpu_maths_tools/typeConverison.cpp > CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.i
+
+CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/adityashigam/Documents/c++/aTourOf++/cpp_cpu_maths_tools/typeConverison.cpp -o CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.s
 
 # Object files for target A_tour_of_c++
 A_tour_of_c_______OBJECTS = \
 "CMakeFiles/A_tour_of_c++.dir/main.cpp.o" \
-"CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.o" \
-"CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.o" \
-"CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.o" \
-"CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.o" \
-"CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.o" \
-"CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.o" \
-"CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.o" \
-"CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.o"
+"CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.o" \
+"CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.o" \
+"CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.o" \
+"CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.o" \
+"CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.o" \
+"CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.o" \
+"CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.o" \
+"CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.o" \
+"CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.o" \
+"CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.o" \
+"CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.o" \
+"CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.o"
 
 # External object files for target A_tour_of_c++
 A_tour_of_c_______EXTERNAL_OBJECTS =
 
 A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/main.cpp.o
-A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs/ch1_2_1.cpp.o
-A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs/ch1_3.cpp.o
-A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs/ch1_4.cpp.o
-A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs/ch1_5.cpp.o
-A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs/ch1_6.cpp.o
-A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs/ch1_7.cpp.o
-A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs/ch1_8.cpp.o
-A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs/ch1_9.cpp.o
+A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs1/ch1_2_1.cpp.o
+A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs1/ch1_3.cpp.o
+A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs1/ch1_4.cpp.o
+A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs1/ch1_5.cpp.o
+A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs1/ch1_6.cpp.o
+A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs1/ch1_7.cpp.o
+A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs1/ch1_8.cpp.o
+A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs1/ch1_9.cpp.o
+A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs2/ch2_1.cpp.o
+A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/chs2/ch2_3.cpp.o
+A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/binaryToHex.cpp.o
+A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/cpp_cpu_maths_tools/typeConverison.cpp.o
 A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/build.make
 A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable A_tour_of_c++"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable A_tour_of_c++"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/A_tour_of_c++.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

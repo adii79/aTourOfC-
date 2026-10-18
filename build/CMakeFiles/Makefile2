@@ -85,12 +85,12 @@ clean: CMakeFiles/A_tour_of_c++.dir/clean
 CMakeFiles/A_tour_of_c++.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10 "Built target A_tour_of_c++"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14 "Built target A_tour_of_c++"
 .PHONY : CMakeFiles/A_tour_of_c++.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/A_tour_of_c++.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles 14
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/A_tour_of_c++.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles 0
 .PHONY : CMakeFiles/A_tour_of_c++.dir/rule
@@ -102,7 +102,7 @@ A_tour_of_c++: CMakeFiles/A_tour_of_c++.dir/rule
 # codegen rule for target.
 CMakeFiles/A_tour_of_c++.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/A_tour_of_c++.dir/build.make CMakeFiles/A_tour_of_c++.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10 "Finished codegen for target A_tour_of_c++"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/adityashigam/Documents/c++/aTourOf++/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14 "Finished codegen for target A_tour_of_c++"
 .PHONY : CMakeFiles/A_tour_of_c++.dir/codegen
 
 # clean rule for target.
