@@ -1,1 +1,7 @@
-/build
+/build/
+/cmake-build-debug/
+/.idea/
+
+*.a
+*.o
+*.o.b

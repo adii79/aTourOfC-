@@ -13,7 +13,7 @@ bool accept2(void){
     // char ans;
     // std::cin>>ans;
 
-    char ans = []  { char c; std::cin>>c ; return c;}();
+    char ans = []  { char c; std::cin>>c ; return c;}(); // lambda function
 
     switch(ans) {
     case 'y' :

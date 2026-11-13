@@ -11,6 +11,7 @@ void varibleOneFive(){
     std::vector<int> v {2,3,4,5,6};
     std::cout<<v.at(3)<<"\n";
     int i1 = 5.6;
+    std::cout<<"------------------xxx-------------------q"<<typeid(std::complex<double>).name()<<std::endl;
     // int i2 {5.5}; // error
     // int i3 = {5.5}; // error
 }

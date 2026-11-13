@@ -1,3 +1,0 @@
-/Users/adityashigam/Documents/c++/aTourOf++/build/build/CMakeFiles/A_tour_of_c++.dir
-/Users/adityashigam/Documents/c++/aTourOf++/build/build/CMakeFiles/edit_cache.dir
-/Users/adityashigam/Documents/c++/aTourOf++/build/build/CMakeFiles/rebuild_cache.dir
